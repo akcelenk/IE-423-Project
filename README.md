@@ -1,5 +1,3 @@
-#  Project Proposal
-
 ##  Project Title:
 **Predicting and Generating Missing Metadata Fields in Streaming Content Using Text-Based Models**
 
@@ -145,11 +143,9 @@ To prepare data for machine learning models, categorical fields were transformed
 
 This encoding ensures compatibility with classification algorithms, which typically require numerical input. The final encoded datasets serve as input for genre and age group prediction, as well as for correlation studies involving duration and popularity.
 
-![Audience Group Distribution](fig_audience_group.png)
-
-![Genre Distribution](fig_genre_distribution.png)
-
-![Duration Group Distribution](fig_duration_distribution.png)
+![Image](https://github.com/user-attachments/assets/a5c9efe9-be0a-46b8-9043-b438defeb652)
+![Image](https://github.com/user-attachments/assets/42d5a99f-6917-4a20-8701-67ef939ada43)
+![Image](https://github.com/user-attachments/assets/c4164620-7ad2-4c28-a053-e4811747eab3)
 
 ---
 
